@@ -1,0 +1,20 @@
+add google
+
+add reste senha
+
+refazer a estrutura
+
+corrigir ortografia* -> amorim que mecher fazer
+
+Logar Conta -> 401 e 404 vão vira um erro só
+
+jwt no verificar email ser onclick 
+
+==========================================================================================
+
+add sistema de logs para fato juridico
+
+encremeta a ia no lugar do admin
+
+add metedo de pagemnto( ia e cosumo custon seria pagar por isso  )
+
